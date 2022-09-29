@@ -76,6 +76,7 @@
 {"key":"csp_XYQBiu_凌云影视","name":"🍨凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://arsky800.github.io/json/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XYQBiu_凌云韩国","name":"🍱凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://arsky800.github.io/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"},
 {"key":"csp_XBiubiu_大米星球","name":"🍚大米星球","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://arsky800.github.io/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},
+{"key":"ASMR","name":"👄ASMR19","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_xpath_chinatv","name":"🍜中国电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://arsky800.github.io/json/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1.json"},
 {"key":"csp_xp_jLgyy","name":"💎蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://arsky800.github.io/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"},
 {"key":"不卡影院","name":"🏅不卡影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://arsky800.github.io/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"},
