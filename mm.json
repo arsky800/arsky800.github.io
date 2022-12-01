@@ -82,7 +82,7 @@
 {"key":"干饭影视","name":"🍚干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"},
 {"key":"口袋影院","name":"👝口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"},
 {"key":"比特影视","name":"💰比特影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_biubiu_yekong","name":"🌃夜空蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E5%A4%9C%E7%A9%BA%E8%93%9D%E5%85%89.json"},],
+{"key":"csp_biubiu_yekong","name":"🌃夜空蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E5%A4%9C%E7%A9%BA%E8%93%9D%E5%85%89.json"}],
 
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/jar/tutu1125.jar",
 "wallpaper":"https://tool.weetai.cn/api",
