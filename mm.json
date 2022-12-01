@@ -84,7 +84,7 @@
 {"key":"比特影视","name":"💰比特影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_biubiu_yekong","name":"🌃夜空蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/json/%E5%A4%9C%E7%A9%BA%E8%93%9D%E5%85%89.json"},
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/jar/0928.png;md5;dacf94e60799be37b46d062730f899ed68eee3b3",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/arsky800/arsky800.github.io/main/jar/a.jar",
 "wallpaper":"https://tool.weetai.cn/api",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
 
